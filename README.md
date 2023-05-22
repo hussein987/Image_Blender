@@ -53,5 +53,3 @@ This section demonstrates the effectiveness of our image blending project. Below
 
 As you can see, the generated images bear a clear resemblance to the second image, while also incorporating elements described by the captions generated from the initial inputs. This demonstrates the potential of our application to combine different images in a meaningful and creative way.
 
-Stay tuned for more updates and improvements!
-
